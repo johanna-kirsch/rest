@@ -21,6 +21,5 @@ A Routing Handler parses the incoming requests and uses Java's reflection API to
   - a Postman collection with sample requests for manual testing
 
 ## How to run this application
-1. install JKD 15 and JUnit 5
-2. compile and run the 'rest.Application' class's main method
-3. import the postman collection and run the provided requests or create your own
+1. compile and run the 'rest.Application' class's main method
+2. import the postman collection and run the provided requests or create your own
